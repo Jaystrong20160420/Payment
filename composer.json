@@ -1,0 +1,19 @@
+{
+    "name": "paytools/payment",
+    "description": "AliPay,WxPay",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paytools\\Payment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay5",
+            "email": "1392320795@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
